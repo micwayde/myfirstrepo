@@ -1,2 +1,4 @@
 # myfirstrepo
-firsttest
+firsttest to learn Github
+
+*study*
